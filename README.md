@@ -1,4 +1,4 @@
-# General_Kinetic_Analysis
+# 1_General_Kinetic_Analysis
 Generalised code of thesis work used to determine rate constants.
 
 # Info
